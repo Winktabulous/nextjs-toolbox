@@ -7,7 +7,7 @@ export default function Success() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Toolbox Template!</title>
+        <title>Form Template!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
